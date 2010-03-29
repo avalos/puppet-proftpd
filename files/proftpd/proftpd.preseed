@@ -1,0 +1,2 @@
+# Run proftpd:
+proftpd-basic   shared/proftpd/inetd_or_standalone      select  standalone

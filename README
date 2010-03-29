@@ -1,0 +1,10 @@
+Currently only debian is supported, but other OS patchs are welcome.
+Remember You need to set your $filesrv variable to your puppetmaster fileserver
+I'm using this module with ldap authentication that's why pam authentication is empty
+
+TODO:
+* Split the main class
+* Configuration template
+* Support others OS
+* etc 
+
